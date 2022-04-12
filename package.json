@@ -4,6 +4,7 @@
   "description": "A project for backend development and Apis challenges from freeCodeCamp",
   "keywords": [ "backend development", "harist", "freecodecamp" ],
   "license": "BSD",
+  "version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
