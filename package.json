@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Abdurrachman Harist",
   "description": "A project for backend development and Apis challenges from freeCodeCamp",
+  "keywords": [ "backend development", "harist", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
