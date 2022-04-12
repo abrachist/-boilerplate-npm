@@ -1,13 +1,17 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Abdurrachman Harist",
-  "description": "A project for backend development and Apis challenges from freeCodeCamp",
-  "keywords": [ "backend development", "harist", "freecodecamp" ],
-  "license": "BSD",
-  "version": "0.0.1",
+	"description": "A project for backend development and Apis challenges from freeCodeCamp",
+	"keywords": [
+		"backend development",
+		"harist",
+		"freecodecamp"
+	],
+	"license": "BSD",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0",
-    "moment": "2.14.0"
+		"moment": "2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
